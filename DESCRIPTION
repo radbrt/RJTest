@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: /dev/null
 Maintainer: /dev/null
 Description: Go away
-License: CC0
+License: DFDF
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
