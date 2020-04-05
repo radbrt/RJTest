@@ -3,18 +3,12 @@ pipeline {
     stages {
       stage('Build') {
         steps {
-          make build
+          sh "R CMD build ."
         }
       }
       stage('Check') {
         steps {
-          make check
-        }
-      }
-
-      stage('Clean') {
-        steps {
-          make clean
+          sh "R CMD check ."
         }
       }
     }
