@@ -8,7 +8,7 @@ pipeline {
       }
       stage('Check') {
         steps {
-          make check .
+          make check
         }
       }
 
