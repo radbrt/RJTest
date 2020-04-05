@@ -8,9 +8,10 @@ pipeline {
       }
       stage('Check') {
         steps {
-          make check
+          make check .
         }
       }
+
       stage('Clean') {
         steps {
           make clean
