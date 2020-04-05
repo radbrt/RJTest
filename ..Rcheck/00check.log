@@ -1,0 +1,73 @@
+* using log directory ‘/Users/radbrt/R/RJTest/..Rcheck’
+* using R version 3.6.2 (2019-12-12)
+* using platform: x86_64-apple-darwin15.6.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘./DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘RJTest’ version ‘0.1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... WARNING
+Found the following executable files:
+  .git/objects/04/2f652f104e3ad83a96d401fc80a10eff7fa7a9
+  .git/objects/0c/d2ba85d71480aac30d9766baa6af08c631b168
+  .git/objects/0f/a7c4b8817591c2dff2b3997d2566320ac6d9fc
+  .git/objects/16/4aa37c4c442958bb697524e79a5188cc2be78e
+  .git/objects/1c/640395c0538889be42fe940d33cd54c87ac0e5
+  .git/objects/29/3f745bbde3452f1e6edf7a683faf97094681db
+  .git/objects/2c/e1df60b18a9644570f730bab6cbddd985bcdfa
+  .git/objects/31/2b66b216ae3b0c30cb54054de13e3b16a2dab8
+  .git/objects/3d/348f227d8a6bb6214cb759621bcf33e2fe4147
+  .git/objects/46/583b2141e0b39dff1e7ab93a7b369f4a238e52
+  .git/objects/49/7f8bfcfb9d13ad61d14d79963641e9aeab41b0
+  .git/objects/59/c0c02261ba3bcfa321a02e9828d9186edfac7b
+  .git/objects/6a/dbc5ea89cf07d182cfebbd216b1928580d0f85
+  .git/objects/75/29152974848dc2b0c14625b1296d36a77aadd7
+  .git/objects/77/d18ba3f2b59fa0c2d77c35ccd78a351424a080
+  .git/objects/7a/d0ea052553da95a88fa5c608bb89db9c430b5c
+  .git/objects/7e/c3e1c808d82a90c0551a23b4c7ffddf031e8d9
+  .git/objects/7f/cb00b44e2ff48682c508dd8eabd6b4ba732348
+  .git/objects/88/49056e25add60923383f43de7eaca9211ca51f
+  .git/objects/8f/3d7fa2be5672163f1ddff1eb406e17c2916908
+  .git/objects/91/114bf2f2bba5e0c5252e75018da19b869776f1
+  .git/objects/98/b54e3739ca5e3ee843a81b3239c9b2388d8058
+  .git/objects/9c/6b9f445745a55a3ad9626323d4226282abd1e2
+  .git/objects/9f/ca340a38ac87edf10f338c8d6736c2cd968e67
+  .git/objects/a4/702cba264890754a89161159bd49042c2ca292
+  .git/objects/a6/11163bccf9280daa1481e1e758244cd9750418
+  .git/objects/a6/6269e0b15aede7369d4371c23fc2947bebad82
+  .git/objects/ad/ca93c95220db656eeffe9532602b1d702f9599
+  .git/objects/bc/6b5e1808bde8b95eef694e11e4609d2103f07d
+  .git/objects/d2/2ee170f534d0a19e30766c469ae6d0dbefa53f
+  .git/objects/d2/83b6cacbd652c46eea86fa4ab9d9b65d75aae8
+  .git/objects/d3/231571ae9419c62bf89e391f3cd07da079fe11
+  .git/objects/d3/87fe304560d2f77d5749a1a0a39bd7b0626ef1
+  .git/objects/d7/5f824ec6278db24891505b14ab3d915514dba7
+  .git/objects/e5/0b4b9f3eb5bab8ce495d4787c0fa8c02958022
+  .git/objects/e8/b677a81b3c48700f268496c411ba6391440c67
+  .git/objects/f8/009d5082f9f5c8e524053f5c44fd362aba882a
+  .git/objects/f9/15899cc5ea3b74a55f31a69c86803963035a60
+  .git/objects/f9/4f9b8998e4d55efaf72202c9e37b994172b3ec
+  .git/objects/fe/2f282e45b3d8a90893f036d07558ff859cfec9
+Source packages should not contain undeclared executable files.
+See section ‘Package structure’ in the ‘Writing R Extensions’ manual.
+* checking for hidden files and directories ... NOTE
+Found the following hidden files and directories:
+  .RData
+  .Rhistory
+  .gitignore
+  ..Rcheck
+  .Rproj.user
+  .git
+These were most likely included in error. See section ‘Package
+structure’ in the ‘Writing R Extensions’ manual.
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘RJTest’ can be installed ... ERROR
+Installation failed.
+See ‘/Users/radbrt/R/RJTest/..Rcheck/00install.out’ for details.
+* DONE
+Status: 1 ERROR, 1 WARNING, 1 NOTE
