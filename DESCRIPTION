@@ -3,8 +3,8 @@ Type: Package
 Title: None
 Version: 0.1.0
 Author: Radbrt
-Maintainer: radbrt@radbrt.com
-Description: Go away
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Go away. THis is not the code you are looking for.
 License: CC0
 Encoding: UTF-8
 LazyData: true
